@@ -464,13 +464,13 @@
       <category term="非洲" scheme="https://travel.drtips.net/categories/%E9%9D%9E%E6%B4%B2/"/>
     
     
-      <category term="非洲旅游攻略" scheme="https://travel.drtips.net/tags/%E9%9D%9E%E6%B4%B2%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/"/>
-    
       <category term="南非" scheme="https://travel.drtips.net/tags/%E5%8D%97%E9%9D%9E/"/>
     
       <category term="开普敦" scheme="https://travel.drtips.net/tags/%E5%BC%80%E6%99%AE%E6%95%A6/"/>
     
       <category term="开普敦旅游攻略" scheme="https://travel.drtips.net/tags/%E5%BC%80%E6%99%AE%E6%95%A6%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/"/>
+    
+      <category term="非洲旅游攻略" scheme="https://travel.drtips.net/tags/%E9%9D%9E%E6%B4%B2%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/"/>
     
   </entry>
   
@@ -495,6 +495,8 @@
       <category term="非洲" scheme="https://travel.drtips.net/categories/%E9%9D%9E%E6%B4%B2/"/>
     
     
+      <category term="非洲旅游攻略" scheme="https://travel.drtips.net/tags/%E9%9D%9E%E6%B4%B2%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/"/>
+    
       <category term="摩洛哥" scheme="https://travel.drtips.net/tags/%E6%91%A9%E6%B4%9B%E5%93%A5/"/>
     
       <category term="卡萨布兰卡" scheme="https://travel.drtips.net/tags/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/"/>
@@ -504,8 +506,6 @@
       <category term="拉巴特" scheme="https://travel.drtips.net/tags/%E6%8B%89%E5%B7%B4%E7%89%B9/"/>
     
       <category term="摩洛哥旅游攻略" scheme="https://travel.drtips.net/tags/%E6%91%A9%E6%B4%9B%E5%93%A5%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/"/>
-    
-      <category term="非洲旅游攻略" scheme="https://travel.drtips.net/tags/%E9%9D%9E%E6%B4%B2%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/"/>
     
   </entry>
   
